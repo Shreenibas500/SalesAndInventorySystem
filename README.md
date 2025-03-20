@@ -1,1 +1,2 @@
 # SalesAndInventorySystem
+## adding a framework
