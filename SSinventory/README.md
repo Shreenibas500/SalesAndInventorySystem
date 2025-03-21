@@ -1,1 +1,1 @@
-# SSinventory
+# SSinventory is Sales And Inventory System.
